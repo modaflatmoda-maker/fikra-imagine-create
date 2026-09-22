@@ -1,5 +1,7 @@
 User-agent: *
 Allow: /
+
 User-agent: OAI-SearchBot
 Allow: /
-Sitemap: https://YOUR-FREE-DOMAIN/sitemap.xml
+
+Sitemap: https://modaflatmoda-maker.github.io/fikra-imagine-create/sitemap.xml
